@@ -6,4 +6,3 @@ const myObjects = {
 };
 
 console.table(myObjects);
-console.log(myObjects);
