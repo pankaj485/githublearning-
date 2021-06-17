@@ -2,7 +2,7 @@ const myObjects = {
 	name: "pankaj ",
 	home: "salyantar",
 	district: "dhading",
-	education: "india ",
+	education: "india",
 };
 
 console.table(myObjects);
